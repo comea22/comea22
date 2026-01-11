@@ -9,7 +9,7 @@ I'm also an illustrator specialized in traditional and digital painting.
 ![](https://nirzak-streak-stats.vercel.app/?user=comea22&theme=noctis_minimus&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=comea22&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-![](https://komarev.com/ghpvc/?username=comea22&color=82dce8&style=for-the-badge)
+# Welcome!
+You're the ![](https://komarev.com/ghpvc/?username=comea22&color=278993&style=for-the-badge) visitor here!
 
