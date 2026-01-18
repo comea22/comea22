@@ -10,6 +10,6 @@ I'm also an illustrator specialized in traditional and digital painting.
 ![](https://nirzak-streak-stats.vercel.app/?user=comea22&theme=noctis_minimus&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=comea22&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+![ProgrammingCat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVyMnA3MmN6N244cXh3NzJranFidWdtbmx0Y24wajRpcXhmb3Z4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 
 
