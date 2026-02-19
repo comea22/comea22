@@ -1,7 +1,7 @@
 # Hello, it's Jae 🦤
 
 A curious girl who keeps learning new things in web development.  
-I'm also an illustrator specializing in traditional and digital painting.
+I'm also an illustrator specializing in traditional and digital painting.  
 Welcome to visit my illustration Instagram account ➔ [azhu.illu](https://www.instagram.com/azhu.illu/)
 
 
